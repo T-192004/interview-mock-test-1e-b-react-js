@@ -1,0 +1,12 @@
+.navbar {
+  background-size: cover;
+  padding: 14px 30px 14px 30px;
+  background-color: #cbd5e1;
+  display: flex;
+  flex-direction: row;
+}
+.navbar-logo {
+  width: 120px;
+  height: 60px;
+  margin-left: 20px;
+}
